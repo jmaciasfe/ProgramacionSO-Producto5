@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="html/xsl" href="archivo xsl.xsl"?>
+<adaptador_red>
+	<nombre>wi-fi</nombre>
+	<direccion_ip>192.168.4.47</direccion_ip>
+	<mascara_subred>255.255.252.0</mascara_subred>
+	<puerta_enlace>192.168.4.1</puerta_enlace>
+	<dns>91.126.225.225</dns>
+	<velocidad_media_dns>Mínimo = 11ms, Máximo = 12ms, Media = 11ms</velocidad_media_dns>
+</adaptador_red>
